@@ -49,7 +49,7 @@ namespace Semana1_Tarea
                 }
             }
 
-            Console.WriteLine("\nPresione una tecla para salir...");
+            Console.WriteLine("\nPresione una tecla para salir");
             Console.ReadKey();
         }
 
